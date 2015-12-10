@@ -2,7 +2,7 @@
   "id": "full-fullscreen@alexander-ploner.com",
   "title": "Full Fullscreen",
   "name": "full-fullscreen",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "This Add-on hides the the upper browser toolbars (bookmarks, location, tabs) in fullscreen mode.",
   "main": "index.js",
   "author": "Alexander Ploner",
