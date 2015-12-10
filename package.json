@@ -1,0 +1,18 @@
+{
+  "id": "full-fullscreen@alexander-ploner.com",
+  "title": "Full Fullscreen",
+  "name": "full-fullscreen",
+  "version": "1.0",
+  "description": "Maximizes the current webpage to use all space of the display.",
+  "main": "index.js",
+  "author": "Alexander Ploner",
+  "homepage": "https://github.com/alex-pl/full-fullscreen",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fullscreen", "kiosk", "jetpack"
+  ]
+}
