@@ -1,8 +1,6 @@
 # Full Fullscreen
 
-This is a minimal Add-on, that does only one thing: It maximizes the current webpage to use all the space of the display.
-
-To enter full screen mode, press the Add-on button. Press ESC key to leave full screen mode.
+This Add-on hides the the upper browser toolbars (bookmarks, location, tabs) in fullscreen mode.
 
 ## MIT License (MIT)
 

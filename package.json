@@ -3,7 +3,7 @@
   "title": "Full Fullscreen",
   "name": "full-fullscreen",
   "version": "1.0",
-  "description": "Maximizes the current webpage to use all space of the display.",
+  "description": "This Add-on hides the the upper browser toolbars (bookmarks, location, tabs) in fullscreen mode.",
   "main": "index.js",
   "author": "Alexander Ploner",
   "homepage": "https://github.com/alex-pl/full-fullscreen",
