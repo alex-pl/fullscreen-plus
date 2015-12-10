@@ -1,4 +1,4 @@
-# Full Fullscreen
+# Fullscreen+
 
 This Add-on hides the the upper browser toolbars (bookmarks, location, tabs) in fullscreen mode.
 

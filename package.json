@@ -1,15 +1,14 @@
 {
-  "id": "full-fullscreen@alexander-ploner.com",
-  "title": "Full Fullscreen",
-  "name": "full-fullscreen",
+  "id": "fullscreen-plus@alexander-ploner.com",
+  "title": "Fullscreen+",
+  "name": "fullscreen-plus",
   "version": "1.0.0",
   "description": "This Add-on hides the the upper browser toolbars (bookmarks, location, tabs) in fullscreen mode.",
   "main": "index.js",
   "author": "Alexander Ploner",
-  "homepage": "https://github.com/alex-pl/full-fullscreen",
+  "homepage": "https://github.com/alex-pl/fullscreen-plus",
   "engines": {
-    "firefox": ">=38.0a1",
-    "fennec": ">=38.0a1"
+    "firefox": ">=38.0a1"
   },
   "license": "MIT",
   "keywords": [
