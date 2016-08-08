@@ -8,7 +8,7 @@ Get it here: https://addons.mozilla.org/firefox/addon/fullscreen-plus/
 
 ## MIT License (MIT)
 
-Copyright (c) 2015 Alexander Ploner
+Copyright (c) 2015 - 2016 Alexander Ploner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
