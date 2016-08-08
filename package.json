@@ -13,5 +13,8 @@
   "license": "MIT",
   "keywords": [
     "fullscreen", "kiosk", "jetpack"
-  ]
+  ],
+  "permissions": {
+    "private-browsing": true
+  }
 }
