@@ -2,7 +2,7 @@
   "id": "fullscreen-plus@alexander-ploner.com",
   "title": "Fullscreen+ for OS X",
   "name": "fullscreen-plus",
-  "version": "1.1",
+  "version": "1.2.0",
   "description": "This Add-on hides the the upper browser toolbars (bookmarks, location, tabs) in fullscreen mode on OS X.",
   "main": "index.js",
   "author": "Alexander Ploner",
